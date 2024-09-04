@@ -1,0 +1,5 @@
+opencv-python
+yt-dlp
+torch
+torchvision
+ultralytics==8.2.87
